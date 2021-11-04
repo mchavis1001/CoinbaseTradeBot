@@ -1,0 +1,4 @@
+python-dotenv~=0.19.1
+requests~=2.26.0
+pandas~=1.3.4
+finta~=1.3
